@@ -59,11 +59,4 @@ These views make it easier to reuse and explore the data without writing repeate
 - Add calculated fields like profit margin or average basket size for deeper insights.
 
 ---
-
-## 📬 Contact
-
-Feel free to connect or reach out if you’d like to discuss this project or data analysis in general.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-
 Thanks for checking out the project! 🙂
